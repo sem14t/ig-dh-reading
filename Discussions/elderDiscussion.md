@@ -18,3 +18,5 @@
 
 
 ### Credit and Outside Resources
+
+* More on xenobots: ["Meet the xenobot: world's first living, self-healing robots created from frog stem cells"] (https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html)
